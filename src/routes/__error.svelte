@@ -3,13 +3,12 @@
 
 	export const load: ErrorLoad = (res) => {
 		return {
-			props: { error: res.error, status: res.status }
+			props: { error: res.error }
 		};
 	};
 </script>
 
 <script lang="ts">
-	export let status: number;
 	export let error: Error & { frame?: string } & { loc?: object };
 </script>
 
