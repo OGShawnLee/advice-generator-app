@@ -21,9 +21,14 @@
 			<img src="/pattern-divider-mobile.svg" alt="" />
 		</picture>
 		<form action="/" method="get">
+			<label class="sr-only" id="button-advice-label" for="button-advice">
+				Request a new advice
+			</label>
 			<button
 				class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 h-14 w-14 min-w-14 | grid place-content-center | bg-crayola rounded-full"
 				type="submit"
+				id="button-advice"
+				aria-labelledby="button-advice-label"
 			>
 				<img src="/icon-dice.svg" alt="dice icon" />
 			</button>
