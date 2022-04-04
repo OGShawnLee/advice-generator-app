@@ -8,3 +8,10 @@ declare namespace App {
 	// interface Session {}
 	// interface Stuff {}
 }
+
+interface Advice {
+	slip: {
+		id: number;
+		advice: string;
+	};
+}
