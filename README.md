@@ -25,7 +25,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [To be added](https://your-solution-url.com)
+- Solution URL: [Right here!](https://www.frontendmentor.io/solutions/advice-generator-built-with-ssr-and-no-javascript-needed-BJuJheYQq)
 - Live Site URL: [Deployed on Vercel](https://advice-generator-app-ogshawnlee.vercel.app/)
 
 ## My process
