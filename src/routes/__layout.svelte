@@ -2,5 +2,4 @@
 	import 'virtual:windi.css';
 </script>
 
-<slot/>
-    
+<slot />
